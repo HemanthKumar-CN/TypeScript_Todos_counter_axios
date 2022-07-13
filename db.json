@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn TypeScript",
+      "status": false
+    },
+    {
+      "title": "Learn Hooks",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn Redux",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn Errors",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn Awesome",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
